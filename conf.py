@@ -20,13 +20,13 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "Kangurei's WIKI"
+site_name = "Kangurei's Wiki"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2022-03-24T22:00+08:00"
 author = "Kangurei"
 email = "kangurei@fantasai.ink"
 author_homepage = "https://www.fantasai.ink"
-description = "只坚持一种正义。我的正义。"
+description = " "
 key_words = ['Maverick', 'Kangurei', 'Kepler', 'WIKI']
 language = 'zh-CN'
 external_links = [
