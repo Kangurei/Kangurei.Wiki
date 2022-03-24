@@ -9,9 +9,10 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
+    "name": "Kepler",
+    "type": "git",
+    "url": "https://github.com/AlanDecode/Maverick-Theme-Kepler.git",
+    "branch": "latest"
 }
 enable_jsdelivr = {
     "enabled": False,
@@ -19,14 +20,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "Kangurei's WIKI"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
+site_build_date = "2022-03-24T22:00+08:00"
+author = "Kangurei"
+email = "kangurei@fantasai.ink"
+author_homepage = "https://www.fantasai.ink"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', 'Kangurei', 'Kepler', 'WIKI']
 language = 'zh-CN'
 external_links = [
     {
