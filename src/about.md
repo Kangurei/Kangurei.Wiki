@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: Kangurei#fantasia.ink (replace # with @)
+Email: Kangurei@fantasia.ink
 
 Telegram：[春淺](https://t.me/Kangurei)
