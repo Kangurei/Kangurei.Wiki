@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/Kangurei.WIKI/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -31,14 +31,14 @@ key_words = ['Maverick', 'Kangurei', 'Kepler', 'WIKI']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "Kangurei's Blog",
+        "url": "https://www.fantasia.ink",
+        "brief": " "
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Kangurei's Pan",
+        "url": "https://pan.fantasia.ink/",
+        "brief": " "
     }
 ]
 nav = [
@@ -62,17 +62,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/Kangureiii",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/Kangurei",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/5528704865/",
         "icon": "gi gi-weibo"
     }
 ]
