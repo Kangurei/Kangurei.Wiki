@@ -15,7 +15,7 @@ template = {
     "branch": "latest"
 }
 enable_jsdelivr = {
-    "enabled": True,
+    "enabled": False,
     "repo": "Kangurei/Kangurei.Wiki@gh-pages"
 }
 
