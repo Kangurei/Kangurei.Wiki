@@ -70,7 +70,7 @@ int main(int argc , char** argv){
    2. 左手扶住冰箱主体
    3. 右手向后用力
 2. 把大象放进冰箱
-3. 关上冰箱门
+3. 关上冰箱
 
 ## Horizontal rule
 
