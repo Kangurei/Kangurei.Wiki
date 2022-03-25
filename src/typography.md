@@ -102,6 +102,6 @@ $$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$
 ## Link Card
 
 [links]
-[AlanDecode](https://www.imalan.cn)+(https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&r=G&d=)
+[Kangurei](https://www.fantasia.ink)+(/static/54644757F84F3C9439DF47FC4433E70F.png)
 [/links]
 
