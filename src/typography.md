@@ -11,6 +11,7 @@ tags:
   - Design
   - Typography
 excerpt: 这是一篇示例文章，在这里你可以看到常用页面元素的显示效果。
+
 ---
 
 [notice]这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！[/notice]
@@ -51,22 +52,23 @@ int main(int argc , char** argv){
     return 0;
 }
 ```
+
 ## List
 
 ### Unordered List
 
 * iPhone
-    * iPhone X
-    * iPhone 11
+  * iPhone X
+  * iPhone 11
 * iPad
 * MacBook
 
 ### Ordered List
 
 1. 打开冰箱
-    1. 右手放在冰箱门拉手上
-    2. 左手扶住冰箱主体
-    3. 右手向后用力
+   1. 右手放在冰箱门拉手上
+   2. 左手扶住冰箱主体
+   3. 右手向后用力
 2. 把大象放进冰箱
 3. 关上冰箱
 
@@ -84,7 +86,7 @@ $$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$
 
 ### Single figure
 
-![319174807](D:/Maverick/Wiki/images/typography/319174807.jpg)
+![Photo](images/typography/319174807-16481727481791.jpg)
 
 ### Photoset
 
