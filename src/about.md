@@ -7,8 +7,8 @@ status: publish
 author: Kangurei
 categories: 
   - Maverick
-tags: about
-  - 
+tags: 
+  - about
 ---
 
 这里是我的个人Wiki，通过 GitHub 管理与构建。
