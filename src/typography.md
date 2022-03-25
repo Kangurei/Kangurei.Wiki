@@ -86,7 +86,7 @@ $$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$
 
 ### Single figure
 
-![Photo](./images/typography/319174807.jpg)
+![Photo](images/typography/319174807.jpg)
 
 ### Photoset
 
